@@ -136,4 +136,11 @@ html {
   background-color: #fff;
 }
 
+.menu {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 /* End of Side Bar */
