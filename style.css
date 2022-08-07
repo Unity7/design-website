@@ -125,3 +125,15 @@ html {
     opacity: 1;
   }
 }
+
+/* Side Bar */
+.sidebar {
+  width: 40rem;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+}
+
+/* End of Side Bar */
